@@ -1,0 +1,675 @@
+{
+  "code": "01",
+  "message": "Sukses",
+  "data": [
+    {
+      "btbmi": 6736,
+      "hscode_other": [
+        {
+          "hs_code": "4911",
+          "ur": "Barang cetakan lainnya, termasuk gambar dan foto cetakan.",
+          "ur_en": "Other printed matter, including printed pictures and photographs."
+        },
+        {
+          "hs_code": "491110",
+          "ur": "- Bahan iklan dagang, katalog komersial dan sejenisnya :",
+          "ur_en": "- Trade advertising material, commercial catalogues and the like :"
+        }
+      ],
+      "hs_code": "49111090",
+      "bagian": "X",
+      "status": 4,
+      "bab": 49,
+      "bagian_penjelasan": [
+        "PULP DARI KAYU ATAU DARI BAHAN SELULOSA BERSERAT LAINNYA",
+        "KERTAS ATAU KERTAS KARTON YANG DIPULIHKAN (SISA DAN SKRAP)",
+        "KERTAS DAN KERTAS KARTON SERTA BARANG DARIPADANYA"
+      ],
+      "bagian_penjelasan_en": [
+        "PULP OF WOOD OR OF OTHER FIBROUS CELLULOSIC MATERIAL",
+        "RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD",
+        "PAPER AND PAPERBOARD AND ARTICLES THEREOF "
+      ],
+      "bab_penjelasan": [
+        "BUKU, KORAN, GAMBAR CETAKAN DAN PRODUK LAINNYA DARI INDUSTRI PERCETAKAN",
+        "NASKAH TULISAN TANGAN, NASKAH KETIKAN DAN RANCANGAN"
+      ],
+      "bab_penjelasan_en": [
+        "Printed books, newspapers, pictures and other products of the printing industry",
+        "manuscripts, typescripts and plans"
+      ],
+      "hsParent": [
+        {
+          "hs_code_format": "4911",
+          "ur_id": "Barang cetakan lainnya, termasuk gambar dan foto cetakan.",
+          "ur_en": "Other printed matter, including printed pictures and photographs."
+        },
+        {
+          "hs_code_format": "491110",
+          "ur_id": "- Bahan iklan dagang, katalog komersial dan sejenisnya :",
+          "ur_en": "- Trade advertising material, commercial catalogues and the like :"
+        },
+        {
+          "hs_code_format": "49111090",
+          "ur_id": "- - Lain-lain",
+          "ur_en": "- - Other"
+        }
+      ],
+      "issued_by_indonesia": "-",
+      "issued_by": "-",
+      "regulation": "PMK No.26/PMK.010/2022",
+      "description": "- - Lain-lain",
+      "mfn": [
+        {
+          "regulation": ".26/PMK.010/2022",
+          "issued_at": "-",
+          "effective_at": "-",
+          "bm": [
+            {
+              "bm": "10.00 %",
+              "regulation": "PMK 26/PMK.010/2022",
+              "file": "./assets/upload/intr/1648781643901.pdf"
+            }
+          ],
+          "ppn": [
+            {
+              "ppn": "11.00 %",
+              "regulation": "",
+              "file": "./assets/upload/intr/1637134281852.pdf"
+            }
+          ],
+          "ppnbm": [{ "ppnbm": "N/A", "regulation": "", "file": "-" }],
+          "cukai": [{ "cukai": "N/A", "regulation": "", "file": "-" }],
+          "ad": [{ "ad": "N/A", "regulation": "", "file": "-" }],
+          "tp": [{ "tp": "N/A", "regulation": "", "file": "-" }],
+          "im": [{ "im": "N/A", "regulation": "", "file": "-" }],
+          "pm": [{ "pm": "N/A", "regulation": "", "file": "-" }],
+          "pph": [
+            {
+              "pph": "2.50 %",
+              "regulation": "PMK 41/PMK.010/2022",
+              "file": "./assets/upload/intr/1648780469543.pdf",
+              "flag_api": "Y"
+            },
+            {
+              "pph": "7.50 %",
+              "regulation": "PMK 41/PMK.010/2022",
+              "file": "./assets/upload/intr/1648780469543.pdf",
+              "flag_api": "N"
+            }
+          ],
+          "ppnbk": [{ "ppnbk": "N/A", "regulation": "", "file": "-" }],
+          "tarif_dana_sawit": [
+            { "tarif_dana_sawit": "N/A", "regulation": "", "file": "-" }
+          ],
+          "notes": "-",
+          "flag_sda": { "flag_sda": "Tidak", "no_skep": "" },
+          "bmkblbb": [{ "bmkblbb": "N/A", "regulation": "", "file": "-" }]
+        }
+      ],
+      "new_mfn": [
+        {
+          "regulation": ".26/PMK.010/2022",
+          "issued_at": "-",
+          "effective_at": "-",
+          "bm": [
+            {
+              "bm": "10.00 %",
+              "regulation": "PMK 26/PMK.010/2022",
+              "file": "./assets/upload/intr/1648781643901.pdf"
+            }
+          ],
+          "ppn": [
+            {
+              "ppn": "11.00 %",
+              "regulation": "",
+              "file": "./assets/upload/intr/1637134281852.pdf"
+            }
+          ],
+          "ppnbm": [{ "ppnbm": "N/A", "regulation": "", "file": "-" }],
+          "cukai": [{ "cukai": "N/A", "regulation": "", "file": "-" }],
+          "ad": [{ "ad": "N/A", "regulation": "", "file": "-" }],
+          "tp": [{ "tp": "N/A", "regulation": "", "file": "-" }],
+          "im": [{ "im": "N/A", "regulation": "", "file": "-" }],
+          "pm": [{ "pm": "N/A", "regulation": "", "file": "-" }],
+          "pph": [
+            {
+              "pph": "2.50 %",
+              "regulation": "PMK 41/PMK.010/2022",
+              "file": "./assets/upload/intr/1648780469543.pdf",
+              "flag_api": "Y"
+            },
+            {
+              "pph": "7.50 %",
+              "regulation": "PMK 41/PMK.010/2022",
+              "file": "./assets/upload/intr/1648780469543.pdf",
+              "flag_api": "N"
+            }
+          ],
+          "ppnbk": [{ "ppnbk": "N/A", "regulation": "", "file": "-" }],
+          "tarif_dana_sawit": [
+            { "tarif_dana_sawit": "N/A", "regulation": "", "file": "-" }
+          ],
+          "notes": "-",
+          "flag_sda": { "flag_sda": "Tidak", "no_skep": "" },
+          "bmkblbb": [{ "bmkblbb": "N/A", "regulation": "", "file": "-" }]
+        }
+      ],
+      "preferential_tariff": [
+        {
+          "preference": "IECEPA (Indonesia-European Free Trade Association Comprehensive Economic Parthership)",
+          "no_skep": "PMK 56/PMK.010/2022 jo. PMK 91/PMK.010/2022",
+          "tgl_skep": "2022-03-30",
+          "berlaku": "2022-04-01",
+          "years": [
+            { "tahun": "Tahun 2022", "nilai": "8%" },
+            { "tahun": "Tahun 2023", "nilai": "6%" },
+            { "tahun": "Tahun 2024", "nilai": "6%" },
+            { "tahun": "Tahun 2025", "nilai": "4%" },
+            { "tahun": "Tahun 2026", "nilai": "4%" },
+            { "tahun": "Tahun 2027", "nilai": "2%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1649038606805.pdf"
+        },
+        {
+          "preference": "RCEP-China (Regional Comprehensive Economic Partnership Agreement - China)",
+          "no_skep": "PMK 224/PMK.010/2022",
+          "tgl_skep": "2022-12-30",
+          "berlaku": "2023-01-02",
+          "years": [
+            { "tahun": "Tahun 2022", "nilai": "8.6%" },
+            { "tahun": "Tahun 2023", "nilai": "7.9%" },
+            { "tahun": "Tahun 2024", "nilai": "7.3%" },
+            { "tahun": "Tahun 2025", "nilai": "6.6%" },
+            { "tahun": "Tahun 2026", "nilai": "5.9%" },
+            { "tahun": "Tahun 2027", "nilai": "5.3%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1672827250588.pdf"
+        },
+        {
+          "preference": "AKFTA (ASEAN Korea Free Trade Agreement)",
+          "no_skep": "PMK Nomor 152 Tahun 2023",
+          "tgl_skep": "2023-12-27",
+          "berlaku": "2024-01-04",
+          "years": [
+            { "tahun": "Tahun 2022", "nilai": "0%" },
+            { "tahun": "Tahun 2023", "nilai": "0%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1704352447884.pdf"
+        },
+        {
+          "preference": "AANZFTA (ASEAN Australia New Zealand Free Trade Agreement)",
+          "no_skep": "PMK 44/PMK.010/2022",
+          "tgl_skep": "2022-03-30",
+          "berlaku": "2022-04-01",
+          "years": [
+            { "tahun": "Tahun 2022", "nilai": "0%" },
+            { "tahun": "Tahun 2023", "nilai": "0%" },
+            { "tahun": "Tahun 2024", "nilai": "0%" },
+            { "tahun": "Tahun 2025", "nilai": "0%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1649033477303.pdf"
+        },
+        {
+          "preference": "ATIGA (ASEAN Trade in Goods Agreement)",
+          "no_skep": "PMK 43/PMK.010/2022",
+          "tgl_skep": "2022-03-30",
+          "berlaku": "2022-04-01",
+          "years": [
+            { "tahun": "Tahun 2022", "nilai": "0%" },
+            { "tahun": "Tahun 2023", "nilai": "0%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1649034577251.pdf"
+        },
+        {
+          "preference": "IACEPA (Indonesia-Australia Comprehensive Economic Partnership Agreement)",
+          "no_skep": "PMK 54/PMK.010/2022",
+          "tgl_skep": "2022-03-30",
+          "berlaku": "2022-04-01",
+          "years": [
+            { "tahun": "Tahun 2022", "nilai": "0%" },
+            { "tahun": "Tahun 2023", "nilai": "0%" },
+            { "tahun": "Tahun 2024", "nilai": "0%" },
+            { "tahun": "Tahun 2025", "nilai": "0%" },
+            { "tahun": "Tahun 2026", "nilai": "0%" },
+            { "tahun": "Tahun 2027", "nilai": "0%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1649038038117.pdf"
+        },
+        {
+          "preference": "RCEP-Korea (Regional Comprehensive Economic Partnership Agreement - Korea)",
+          "no_skep": "PMK-223/PMK.010/2022 jo. PMK Nomor 37 Tahun 2023",
+          "tgl_skep": "2023-03-28",
+          "berlaku": "2023-03-29",
+          "years": [
+            { "tahun": "Tahun 2022", "nilai": "8.58%" },
+            { "tahun": "Tahun 2023", "nilai": "7.92%" },
+            { "tahun": "Tahun 2024", "nilai": "7.26%" },
+            { "tahun": "Tahun 2025", "nilai": "6.6%" },
+            { "tahun": "Tahun 2026", "nilai": "5.94%" },
+            { "tahun": "Tahun 2027", "nilai": "5.28%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1680575972707.pdf"
+        },
+        {
+          "preference": "IJEPA (Indonesia - Japan Economic Partnership Agreement)",
+          "no_skep": "PMK 50/PMK.010/2022",
+          "tgl_skep": "2022-03-30",
+          "berlaku": "2022-04-01",
+          "years": [
+            { "tahun": "Tahun 2022", "nilai": "0%" },
+            { "tahun": "Tahun 2023", "nilai": "0%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1649036633120.pdf"
+        },
+        {
+          "preference": "ICCEPA (Indonesia-Chile Comprehensive Economic Partnership Agreement)",
+          "no_skep": "PMK 55/PMK.010/2022",
+          "tgl_skep": "2022-03-30",
+          "berlaku": "2022-04-01",
+          "years": [
+            { "tahun": "Tahun 2022", "nilai": "2%" },
+            { "tahun": "Tahun 2023", "nilai": "0%" },
+            { "tahun": "Tahun 2024", "nilai": "0%" },
+            { "tahun": "Tahun 2025", "nilai": "0%" },
+            { "tahun": "Tahun 2026", "nilai": "0%" },
+            { "tahun": "Tahun 2027", "nilai": "0%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1649038400221.pdf"
+        },
+        {
+          "preference": "RCEP-Japan (Regional Comprehensive Economic Partnership Agreement - Japan)",
+          "no_skep": "PMK-225/PMK.010/2022 jo. PMK Nomor 36 Tahun 2023",
+          "tgl_skep": "2023-03-28",
+          "berlaku": "2023-03-29",
+          "years": [
+            { "tahun": "Tahun 2022", "nilai": "8.6%" },
+            { "tahun": "Tahun 2023", "nilai": "7.9%" },
+            { "tahun": "Tahun 2024", "nilai": "7.3%" },
+            { "tahun": "Tahun 2025", "nilai": "6.6%" },
+            { "tahun": "Tahun 2026", "nilai": "5.9%" },
+            { "tahun": "Tahun 2027", "nilai": "5.3%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1680575906328.pdf"
+        },
+        {
+          "preference": "RCEP-Australia (Regional Comprehensive Economic Partnership Agreement - Australia)",
+          "no_skep": "PMK 222/PMK.010/2022",
+          "tgl_skep": "2022-12-30",
+          "berlaku": "2023-01-02",
+          "years": [
+            { "tahun": "Tahun 2022", "nilai": "8.6%" },
+            { "tahun": "Tahun 2023", "nilai": "7.9%" },
+            { "tahun": "Tahun 2024", "nilai": "7.3%" },
+            { "tahun": "Tahun 2025", "nilai": "6.6%" },
+            { "tahun": "Tahun 2026", "nilai": "5.9%" },
+            { "tahun": "Tahun 2027", "nilai": "5.3%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1672825651077.pdf"
+        },
+        {
+          "preference": "AHKFTA (ASEAN-Hong Kong Free Trade Agreement)",
+          "no_skep": "PMK 49/PMK.010/2022 jo. PMK 93/PMK.010/2022",
+          "tgl_skep": "2022-03-30",
+          "berlaku": "2022-04-01",
+          "years": [
+            { "tahun": "Tahun 2022", "nilai": "6%" },
+            { "tahun": "Tahun 2023", "nilai": "4%" },
+            { "tahun": "Tahun 2024", "nilai": "4%" },
+            { "tahun": "Tahun 2025", "nilai": "2%" },
+            { "tahun": "Tahun 2026", "nilai": "2%" },
+            { "tahun": "Tahun 2027", "nilai": "1.50%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1649036407495.pdf"
+        },
+        {
+          "preference": "ACFTA (ASEAN - China Free Trade Area)",
+          "no_skep": "PMK 46/PMK.010/2022",
+          "tgl_skep": "2022-03-30",
+          "berlaku": "2022-04-01",
+          "years": [
+            { "tahun": "Tahun 2022", "nilai": "Baca Peraturan" },
+            { "tahun": "Tahun 2023", "nilai": "Baca Peraturan" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1649034282492.pdf"
+        },
+        {
+          "preference": "AIFTA (ASEAN India Free Trade Agreement)",
+          "no_skep": "PMK 47/PMK.010/2022 jo. PMK 92/PMK.010/2022",
+          "tgl_skep": "2022-03-30",
+          "berlaku": "2022-04-01",
+          "years": [
+            { "tahun": "Tahun 2022", "nilai": "5%" },
+            { "tahun": "Tahun 2023", "nilai": "5%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1649035064520.pdf"
+        },
+        {
+          "preference": "AJCEP (ASEAN-Japan Comprehensive Economic Partnership)",
+          "no_skep": "PMK 48/PMK.010/2022 jo. PMK 90/PMK.010/2022",
+          "tgl_skep": "2022-03-30",
+          "berlaku": "2022-04-01",
+          "years": [
+            { "tahun": "Tahun 2022", "nilai": "0%" },
+            { "tahun": "Tahun 2023", "nilai": "0%" },
+            { "tahun": "Tahun 2024", "nilai": "0%" },
+            { "tahun": "Tahun 2025", "nilai": "0%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1649035458290.pdf"
+        },
+        {
+          "preference": "RCEP-New Zealand (Regional Comprehensive Economic Partnership Agreement - New Zealand)",
+          "no_skep": "PMK 226/PMK.010/2022",
+          "tgl_skep": "2022-12-30",
+          "berlaku": "2023-01-02",
+          "years": [
+            { "tahun": "Tahun 2022", "nilai": "8.6%" },
+            { "tahun": "Tahun 2023", "nilai": "7.9%" },
+            { "tahun": "Tahun 2024", "nilai": "7.3%" },
+            { "tahun": "Tahun 2025", "nilai": "6.6%" },
+            { "tahun": "Tahun 2026", "nilai": "5.9%" },
+            { "tahun": "Tahun 2027", "nilai": "5.3%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1672828228251.pdf"
+        },
+        {
+          "preference": "RCEP-ASEAN (Regional Comprehensive Economic Partnership Agreement - ASEAN)",
+          "no_skep": "PMK 221/PMK.010/2022",
+          "tgl_skep": "2022-12-30",
+          "berlaku": "2023-01-02",
+          "years": [
+            { "tahun": "Tahun 2022", "nilai": "8.6%" },
+            { "tahun": "Tahun 2023", "nilai": "7.9%" },
+            { "tahun": "Tahun 2024", "nilai": "7.3%" },
+            { "tahun": "Tahun 2025", "nilai": "6.6%" },
+            { "tahun": "Tahun 2026", "nilai": "5.9%" },
+            { "tahun": "Tahun 2027", "nilai": "5.3%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1672823236294.pdf"
+        },
+        {
+          "preference": "IKCEPA (Indonesia-Korea Comprehensive Partnership Agreement)",
+          "no_skep": "PMK 227/PMK.010/2022",
+          "tgl_skep": "2022-12-30",
+          "berlaku": "2023-01-01",
+          "years": [
+            { "tahun": "Tahun 2023", "nilai": "0%" },
+            { "tahun": "Tahun 2024", "nilai": "0%" },
+            { "tahun": "Tahun 2025", "nilai": "0%" },
+            { "tahun": "Tahun 2026", "nilai": "0%" },
+            { "tahun": "Tahun 2027", "nilai": "0%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1672828766971.pdf"
+        },
+        {
+          "preference": "IUAE-CEPA (Indonesia–United Arab Emirates Comprehensive Economic Partnership Agreement)",
+          "no_skep": "PMK Nomor 87 Tahun 2023",
+          "tgl_skep": null,
+          "berlaku": "2023-09-01",
+          "years": [
+            { "tahun": "Tahun 2023", "nilai": "8%" },
+            { "tahun": "Tahun 2024", "nilai": "6%" },
+            { "tahun": "Tahun 2025", "nilai": "4%" },
+            { "tahun": "Tahun 2026", "nilai": "2%" },
+            { "tahun": "Tahun 2027", "nilai": "0%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1693816885461.pdf"
+        }
+      ],
+      "preferential_tariff_new": [
+        {
+          "preference": "IECEPA (Indonesia-European Free Trade Association Comprehensive Economic Parthership)",
+          "no_skep": "PMK 56/PMK.010/2022 jo. PMK 91/PMK.010/2022",
+          "tgl_skep": "2022-03-30",
+          "berlaku": "2022-04-01",
+          "years": [
+            { "tahun": "Tahun 2024", "nilai": "6%" },
+            { "tahun": "Tahun 2025", "nilai": "4%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1649038606805.pdf"
+        },
+        {
+          "preference": "RCEP-China (Regional Comprehensive Economic Partnership Agreement - China)",
+          "no_skep": "PMK 224/PMK.010/2022",
+          "tgl_skep": "2022-12-30",
+          "berlaku": "2023-01-02",
+          "years": [
+            { "tahun": "Tahun 2024", "nilai": "7.3%" },
+            { "tahun": "Tahun 2025", "nilai": "6.6%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1672827250588.pdf"
+        },
+        {
+          "preference": "AKFTA (ASEAN Korea Free Trade Agreement)",
+          "no_skep": "PMK Nomor 152 Tahun 2023",
+          "tgl_skep": "2023-12-27",
+          "berlaku": "2024-01-04",
+          "years": [{ "tahun": "Tahun 2023", "nilai": "0%" }],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1704352447884.pdf"
+        },
+        {
+          "preference": "AANZFTA (ASEAN Australia New Zealand Free Trade Agreement)",
+          "no_skep": "PMK 44/PMK.010/2022",
+          "tgl_skep": "2022-03-30",
+          "berlaku": "2022-04-01",
+          "years": [
+            { "tahun": "Tahun 2024", "nilai": "0%" },
+            { "tahun": "Tahun 2025", "nilai": "0%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1649033477303.pdf"
+        },
+        {
+          "preference": "ATIGA (ASEAN Trade in Goods Agreement)",
+          "no_skep": "PMK 43/PMK.010/2022",
+          "tgl_skep": "2022-03-30",
+          "berlaku": "2022-04-01",
+          "years": [{ "tahun": "Tahun 2023", "nilai": "0%" }],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1649034577251.pdf"
+        },
+        {
+          "preference": "IACEPA (Indonesia-Australia Comprehensive Economic Partnership Agreement)",
+          "no_skep": "PMK 54/PMK.010/2022",
+          "tgl_skep": "2022-03-30",
+          "berlaku": "2022-04-01",
+          "years": [
+            { "tahun": "Tahun 2024", "nilai": "0%" },
+            { "tahun": "Tahun 2025", "nilai": "0%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1649038038117.pdf"
+        },
+        {
+          "preference": "RCEP-Korea (Regional Comprehensive Economic Partnership Agreement - Korea)",
+          "no_skep": "PMK-223/PMK.010/2022 jo. PMK Nomor 37 Tahun 2023",
+          "tgl_skep": "2023-03-28",
+          "berlaku": "2023-03-29",
+          "years": [
+            { "tahun": "Tahun 2024", "nilai": "7.26%" },
+            { "tahun": "Tahun 2025", "nilai": "6.6%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1680575972707.pdf"
+        },
+        {
+          "preference": "IJEPA (Indonesia - Japan Economic Partnership Agreement)",
+          "no_skep": "PMK 50/PMK.010/2022",
+          "tgl_skep": "2022-03-30",
+          "berlaku": "2022-04-01",
+          "years": [{ "tahun": "Tahun 2023", "nilai": "0%" }],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1649036633120.pdf"
+        },
+        {
+          "preference": "ICCEPA (Indonesia-Chile Comprehensive Economic Partnership Agreement)",
+          "no_skep": "PMK 55/PMK.010/2022",
+          "tgl_skep": "2022-03-30",
+          "berlaku": "2022-04-01",
+          "years": [
+            { "tahun": "Tahun 2024", "nilai": "0%" },
+            { "tahun": "Tahun 2025", "nilai": "0%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1649038400221.pdf"
+        },
+        {
+          "preference": "RCEP-Japan (Regional Comprehensive Economic Partnership Agreement - Japan)",
+          "no_skep": "PMK-225/PMK.010/2022 jo. PMK Nomor 36 Tahun 2023",
+          "tgl_skep": "2023-03-28",
+          "berlaku": "2023-03-29",
+          "years": [
+            { "tahun": "Tahun 2024", "nilai": "7.3%" },
+            { "tahun": "Tahun 2025", "nilai": "6.6%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1680575906328.pdf"
+        },
+        {
+          "preference": "RCEP-Australia (Regional Comprehensive Economic Partnership Agreement - Australia)",
+          "no_skep": "PMK 222/PMK.010/2022",
+          "tgl_skep": "2022-12-30",
+          "berlaku": "2023-01-02",
+          "years": [
+            { "tahun": "Tahun 2024", "nilai": "7.3%" },
+            { "tahun": "Tahun 2025", "nilai": "6.6%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1672825651077.pdf"
+        },
+        {
+          "preference": "AHKFTA (ASEAN-Hong Kong Free Trade Agreement)",
+          "no_skep": "PMK 49/PMK.010/2022 jo. PMK 93/PMK.010/2022",
+          "tgl_skep": "2022-03-30",
+          "berlaku": "2022-04-01",
+          "years": [
+            { "tahun": "Tahun 2024", "nilai": "4%" },
+            { "tahun": "Tahun 2025", "nilai": "2%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1649036407495.pdf"
+        },
+        {
+          "preference": "ACFTA (ASEAN - China Free Trade Area)",
+          "no_skep": "PMK 46/PMK.010/2022",
+          "tgl_skep": "2022-03-30",
+          "berlaku": "2022-04-01",
+          "years": [{ "tahun": "Tahun 2023", "nilai": "Baca Peraturan" }],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1649034282492.pdf"
+        },
+        {
+          "preference": "AIFTA (ASEAN India Free Trade Agreement)",
+          "no_skep": "PMK 47/PMK.010/2022 jo. PMK 92/PMK.010/2022",
+          "tgl_skep": "2022-03-30",
+          "berlaku": "2022-04-01",
+          "years": [{ "tahun": "Tahun 2023", "nilai": "5%" }],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1649035064520.pdf"
+        },
+        {
+          "preference": "AJCEP (ASEAN-Japan Comprehensive Economic Partnership)",
+          "no_skep": "PMK 48/PMK.010/2022 jo. PMK 90/PMK.010/2022",
+          "tgl_skep": "2022-03-30",
+          "berlaku": "2022-04-01",
+          "years": [
+            { "tahun": "Tahun 2024", "nilai": "0%" },
+            { "tahun": "Tahun 2025", "nilai": "0%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1649035458290.pdf"
+        },
+        {
+          "preference": "RCEP-New Zealand (Regional Comprehensive Economic Partnership Agreement - New Zealand)",
+          "no_skep": "PMK 226/PMK.010/2022",
+          "tgl_skep": "2022-12-30",
+          "berlaku": "2023-01-02",
+          "years": [
+            { "tahun": "Tahun 2024", "nilai": "7.3%" },
+            { "tahun": "Tahun 2025", "nilai": "6.6%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1672828228251.pdf"
+        },
+        {
+          "preference": "RCEP-ASEAN (Regional Comprehensive Economic Partnership Agreement - ASEAN)",
+          "no_skep": "PMK 221/PMK.010/2022",
+          "tgl_skep": "2022-12-30",
+          "berlaku": "2023-01-02",
+          "years": [
+            { "tahun": "Tahun 2024", "nilai": "7.3%" },
+            { "tahun": "Tahun 2025", "nilai": "6.6%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1672823236294.pdf"
+        },
+        {
+          "preference": "IKCEPA (Indonesia-Korea Comprehensive Partnership Agreement)",
+          "no_skep": "PMK 227/PMK.010/2022",
+          "tgl_skep": "2022-12-30",
+          "berlaku": "2023-01-01",
+          "years": [
+            { "tahun": "Tahun 2024", "nilai": "0%" },
+            { "tahun": "Tahun 2025", "nilai": "0%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1672828766971.pdf"
+        },
+        {
+          "preference": "IUAE-CEPA (Indonesia–United Arab Emirates Comprehensive Economic Partnership Agreement)",
+          "no_skep": "PMK Nomor 87 Tahun 2023",
+          "tgl_skep": null,
+          "berlaku": "2023-09-01",
+          "years": [
+            { "tahun": "Tahun 2024", "nilai": "6%" },
+            { "tahun": "Tahun 2025", "nilai": "4%" }
+          ],
+          "seterusnya": true,
+          "file_path": "./assets/upload/intr/1693816885461.pdf"
+        }
+      ],
+      "import_regulation": [],
+      "import_regulation_border": [],
+      "import_regulation_post_border": [],
+      "export_regulation": [],
+      "catatan": [
+        {
+          "bab_id": "Bab 49",
+          "bab_en": "Chapter 49",
+          "desc_id": "BUKU, KORAN, GAMBAR CETAKAN DAN PRODUK LAINNYA DARI INDUSTRI PERCETAKAN; NASKAH TULISAN TANGAN, NASKAH KETIKAN DAN RANCANGAN",
+          "desc_en": "Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",
+          "note_id": null,
+          "note_en": null,
+          "catatan_bag_id": "-",
+          "catatan_bag_en": "-"
+        }
+      ],
+      "kondisiTertentu": false,
+      "refSatuan": { "impor": [], "ekspor": [] },
+      "dok_kepabean_import_border": [],
+      "dok_kepabean_import_post_border": []
+    }
+  ]
+}

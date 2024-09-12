@@ -22,6 +22,37 @@ func Dup1() {
 	}
 }
 
+// I'm trying to make Dup2 function more expressive with functional approach
+func Dup2V2(files []string) {
+	if len(files) == 0 {
+		fmt.Println("Belum ada file yang diinput")
+	}
+
+	result := make(map[string]int)
+
+	for _, file := range files {
+		countLinesV2(file, result)
+	}
+
+	for line, n := range result {
+		if n > 1 {
+			fmt.Printf("Kata \"%s\" terulang sebanyak %d kali\n", line, n)
+		}
+	}
+
+}
+
+func countLinesV2(file string, counts map[string]int) {
+	content, err := os.Open(file)
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "dup2: %v\n", err)
+	}
+	input := bufio.NewScanner(content)
+	for input.Scan() {
+		counts[input.Text()]++
+	}
+}
+
 func Dup2() {
 	counts := make(map[string]int)
 	files := os.Args[1:]
