@@ -17,6 +17,7 @@ func Exctract(hscode string) {
 		os.Exit(1)
 	}
 
+	// Set header
 	req.Header.Set("User-Agent", "My-Custom-User-Agent")
 	req.Header.Set("accept", "application/json")
 	req.Header.Set("accept-language", "en-US,en;q=0.9")
@@ -36,7 +37,7 @@ func Exctract(hscode string) {
 		os.Exit(1)
 	}
 
-	file, err := os.Create("data.json")
+	file, err := os.Create(hscode + ".json")
 	if err != nil {
 		fmt.Println(err)
 		return
@@ -47,16 +48,12 @@ func Exctract(hscode string) {
 
 }
 
-type HsCode struct {
-	HsCode string `json:"hs_code"`
-}
-
-func HsCodes(file *os.File) []HsCode {
-	var result []HsCode
+func HsCodes(file *os.File) []string {
+	var result []string
 	content := bufio.NewScanner(file)
 	for content.Scan() {
 		if validateHSCode(content.Text()) {
-			result = append(result, HsCode{HsCode: content.Text()})
+			result = append(result, content.Text())
 		}
 	}
 	return result
