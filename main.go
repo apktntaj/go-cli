@@ -22,7 +22,6 @@ func main() {
 	hsCodes := insw.HsCodes(file)
 
 	start := time.Now()
-
 	for _, hsCode := range hsCodes {
 		insw.Exctract(hsCode)
 	}

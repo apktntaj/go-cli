@@ -37,7 +37,7 @@ func Exctract(hscode string) {
 		os.Exit(1)
 	}
 
-	file, err := os.Create(hscode + ".json")
+	file, err := os.Create("res/" + hscode + ".json")
 	if err != nil {
 		fmt.Println(err)
 		return
